@@ -26,6 +26,7 @@ publication_year	Year of publication
 price	Book price
 created_at	Record creation timestamp
 updated_at	Record last update timestamp
+
 🔄 CRUD Operations
 ➕ Create
 
@@ -48,6 +49,7 @@ Edit book details through an update form
 Remove a book from the system
 
 📸 Screenshots
+
 *Create*
 <img width="1920" height="1020" alt="Screenshot 2026-03-20 150321" src="https://github.com/user-attachments/assets/7c86e069-5668-4f03-8a26-e7cc09737c02" />
 <img width="1920" height="1020" alt="Screenshot 2026-03-20 150327" src="https://github.com/user-attachments/assets/f348d0fd-d695-4915-ae75-6569c0f0c023" />
