@@ -48,5 +48,17 @@ Edit book details through an update form
 Remove a book from the system
 
 📸 Screenshots
+*Create*
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 150321" src="https://github.com/user-attachments/assets/7c86e069-5668-4f03-8a26-e7cc09737c02" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 150327" src="https://github.com/user-attachments/assets/f348d0fd-d695-4915-ae75-6569c0f0c023" />
 
-(Insert screenshots here of your application UI — e.g., book list, add form, edit page, etc.)
+*Read*
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 141405" src="https://github.com/user-attachments/assets/74cf7e00-f542-473d-8cba-fe29f21c1f99" />
+
+*Update*
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 150355" src="https://github.com/user-attachments/assets/30fbf716-c053-49cb-8f2b-4f0b42bbc179" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 150401" src="https://github.com/user-attachments/assets/3e25f058-552a-4595-86df-c6a9868c58b8" />
+
+*Delete*
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 150233" src="https://github.com/user-attachments/assets/d4a733ed-171c-4590-a7a3-a62d15c37c65" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-20 150244" src="https://github.com/user-attachments/assets/b750c04a-c9ae-480a-93af-35d1e8a1982a" />
